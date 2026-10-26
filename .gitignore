@@ -1,0 +1,17 @@
+# HumHub gitignore
+/uploads/
+/assets/
+/protected/runtime/
+/*.env
+.env
+*.sql
+/logs
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+/composer.lock
+/composer.phar
+/composer.json
+!/protected/config/common.php
+!/protected/config/web.php
